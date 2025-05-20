@@ -12,4 +12,3 @@ Hello! My name is Ruhi and I am a first year PhD student at the University of Gr
 I recieved my bachelor's (Artificial Intelligence, 2019-2022) and master's (Artificial Intelligence, 2022-2024) from University of Groningen. Here are my [bachelor's thesis](https://drive.google.com/file/d/1oSRN9xZcjLsdhZh2pqhlr2z5Dzzw6T1j/view?usp=sharing) and [master's thesis](https://drive.google.com/file/d/1_TV80mCphJgkkG6qH-nlYFmA7wL5cTL2/view?usp=sharing). 
 
 My general interest is in using artificial intelligence technologies to improve and simplify the lives of people. I am also interested in languages which are not often represented in traditional research in natural language processing and computational linguistics. Previously I have also worked on language modeling and developing LLM's as communication aids for language disorders.
-
