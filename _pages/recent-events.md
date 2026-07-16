@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "News and Recent Events"
-permalink: /news-events/
+permalink: /recent-events/
 author_profile: true
 redirect_from:
   - /news-events
