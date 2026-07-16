@@ -4,8 +4,8 @@ title: "News and Recent Events"
 permalink: /recent-events/
 author_profile: true
 redirect_from:
-  - /news-events
-  -/news-events.html
+  - /recent-events
+  - /recent-events.html
 ---
 
 
